@@ -1,0 +1,12 @@
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/bin/Debug/net7.0/Leaderboard.deps.json
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/bin/Debug/net7.0/Leaderboard.dll
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/bin/Debug/net7.0/Leaderboard.pdb
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/obj/Debug/net7.0/Leaderboard.csproj.AssemblyReference.cache
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/obj/Debug/net7.0/Leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/obj/Debug/net7.0/Leaderboard.AssemblyInfoInputs.cache
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/obj/Debug/net7.0/Leaderboard.AssemblyInfo.cs
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/obj/Debug/net7.0/Leaderboard.csproj.CoreCompileInputs.cache
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/obj/Debug/net7.0/Leaderboard.dll
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/obj/Debug/net7.0/refint/Leaderboard.dll
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/obj/Debug/net7.0/Leaderboard.pdb
+/Users/macbook/Downloads/backend_task_sdv/Leaderboard/obj/Debug/net7.0/ref/Leaderboard.dll
