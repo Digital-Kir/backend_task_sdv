@@ -40,10 +40,20 @@
 
 namespace Leaderboard.Services
 {
+    private void Test() {
+
+    }
+
+
+
+
+
     public class LeaderboardCalculator : ILeaderboardCalculator
     {
         public IEnumerable<UserWithPlace> CalculatePlaces(IEnumerable<IUserWithScore> usersWithScores, LeaderboardMinScores leaderboardMinScores)
         {
+            var1 = new UserWithPlace();
+            var2 = new UserWithPlace();
             // TODO: implement code here
             return new List<UserWithPlace>();
         }
